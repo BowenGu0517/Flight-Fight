@@ -1,0 +1,4 @@
+﻿  EnemyFlight.cpp
+d:\潭州c++\vip11\飞机大战\01-ege\consoleapplication1\consoleapplication1\enemyflight.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> D:\潭州C++\VIP11\飞机大战\01-ege\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\潭州C++\VIP11\飞机大战\01-ege\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
